@@ -1,17 +1,22 @@
+<?php 
+error_reporting(E_ALL ^ E_NOTICE);
+include("mostra-alerta.php"); 
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Minha loja</title>
+	<title>Loja do JP</title>
 	<link href="css/bootstrap.css" rel="stylesheet">
-	<link href="css/loja.css" rel="stylesheet">
+	<!-- <link href="css/loja.css" rel="stylesheet"> -->
 </head>
 <body>
 
 	<div class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="index.php">Minha loja</a>
+				<a class="navbar-brand" href="index.php">Menu</a>
 			</div>
 
 			<div>

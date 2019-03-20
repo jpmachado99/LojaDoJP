@@ -1,7 +1,8 @@
-<?php include("cabecalho.php"); 
-	  include("conecta.php");
-	  include("banco-categoria.php");
-	  include("banco-produto.php");
+<?php 
+	include("cabecalho.php"); 
+	include("conecta.php");
+	include("banco-categoria.php");
+	include("banco-produto.php");
 
 $id = $_GET['id'];
 $produto = buscaProduto($conexao, $id);
