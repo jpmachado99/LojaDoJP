@@ -1,3 +1,3 @@
 # LojaDoJP
 
-Projeto do curso de PHP + MySQL I da Alura.
+Projeto do curso de PHP + MySQL I e II da Alura.
