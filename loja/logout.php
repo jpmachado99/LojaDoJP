@@ -3,5 +3,5 @@
 
 logout();
 $_SESSION["success"] = 'Deslogado com sucesso.';
-header("Location: index.php?logout=true");
+header("Location: index.php");
 die();
