@@ -1,3 +1,3 @@
-# LojaDoJP
+# My First Store
 
-Projeto do curso de PHP + MySQL I e II da Alura.
+This is my first web application, developed using PHP, JS, SQL, Bootstrap and more.
